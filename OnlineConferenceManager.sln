@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineConferenceManager", "OnlineConferenceManager\OnlineConferenceManager.csproj", "{5DE654A4-AC63-4081-9FBC-3EB16E5EEEAD}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{B10F8FAC-3AC3-4550-9F93-373C034670A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE654A4-AC63-4081-9FBC-3EB16E5EEEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE654A4-AC63-4081-9FBC-3EB16E5EEEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE654A4-AC63-4081-9FBC-3EB16E5EEEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE654A4-AC63-4081-9FBC-3EB16E5EEEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10F8FAC-3AC3-4550-9F93-373C034670A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10F8FAC-3AC3-4550-9F93-373C034670A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10F8FAC-3AC3-4550-9F93-373C034670A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10F8FAC-3AC3-4550-9F93-373C034670A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2477BB96-F3F1-402C-A370-044ED59569AD}
+	EndGlobalSection
+EndGlobal

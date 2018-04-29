@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  onlineconferencemanager:
+    image: onlineconferencemanager
+    build:
+      context: ./OnlineConferenceManager
+      dockerfile: Dockerfile
